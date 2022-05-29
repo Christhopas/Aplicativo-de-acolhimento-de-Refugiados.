@@ -10,3 +10,4 @@
 ***
 
 # **1. JavaScript**
+No javascript foi feito funções para que o navbar se tornasse mais responsivo e "animado", como por exemplo efeito de se transformar em um X quando aberto.
